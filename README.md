@@ -1,4 +1,4 @@
-# Brújula · Agenda estudiantil
+# Agenda+ · Agenda estudiantil
 
 Web: https://rgavsan2704.github.io/brujula-agenda-estudiantil/
 
